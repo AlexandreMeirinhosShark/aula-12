@@ -37,3 +37,4 @@ while True:
                 print(idx)
                 lster[idx] = guess
         print(lster)
+#não consegui fazer :( desisto.
